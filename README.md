@@ -58,7 +58,7 @@ and is knowledgeable enough now to decide which electives to take.
 `simple programs`
 simple data structures`~~
 
-Courses | Duration | Effort | Prerequisites | Discussion | Completed?
+Courses | Duration | Effort | Prerequisites | Discussion | Status
 :-- | :--: | :--: | :--: | :--: | :--:
 ~~[Introduction to programming](coursepages/intro-programming/README.md)~~ | ~~10 weeks~~ | ~~10 hours/week~~ | ~~none~~ | ~~[chat](https://discord.gg/syA242Z)~~ | ~~SKIPPED~~
 
@@ -72,9 +72,9 @@ This course will introduce you to the world of computer science. Students who ha
 `basic data structures and algorithms`
 `and more`
 
-Courses | Duration | Effort | Prerequisites | Discussion
-:-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+Courses | Duration | Effort | Prerequisites | Discussion | Status
+:-- | :--: | :--: | :--: | :--: | :--:
+[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 9 weeks | 15 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9) | IN PROGRESS
 
 ## Core CS
 
