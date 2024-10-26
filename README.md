@@ -60,7 +60,7 @@ simple data structures`~~
 
 Courses | Duration | Effort | Prerequisites | Discussion | Completed?
 :-- | :--: | :--: | :--: | :--: | :--:
-[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z) | SKIPPED
+~~[Introduction to programming](coursepages/intro-programming/README.md)~~ | ~~10 weeks~~ | ~~10 hours/week~~ | ~~none~~ | ~~[chat](https://discord.gg/syA242Z)~~ | ~~SKIPPED~~
 
 ### Introduction to Computer Science
 
